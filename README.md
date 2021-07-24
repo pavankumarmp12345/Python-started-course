@@ -2,5 +2,6 @@
 Python basics 
 
 
-Coursera Project
+Coursera Project:
+
 Python Programming: A Concise Introduction
